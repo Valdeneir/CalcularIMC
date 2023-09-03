@@ -27,6 +27,7 @@ Evento exclusivo e gratuito, promovido pela DevEmDobro para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React
+- Javascript
 - Expo
 
 
