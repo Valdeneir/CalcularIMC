@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela DevEmDobro para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="ONEBITHELT" src="https://github.com/Valdeneir/CalcularIMC/blob/main/src/imagens/calcularIMC.jpg?raw=true" width="50%">
+  <img alt="ONEBITHELT" src="https://github.com/Valdeneir/CalcularIMC/blob/main/calcularIMC.jpeg?raw=true" width="50%">
 </p>
 
 ## 🚀 Tecnologias
