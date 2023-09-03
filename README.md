@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Calcula o IMC e exibe o total, podendo registrar várias consultas e exibindo uma lista dos valors obitidos. 
+Calcula o IMC e exibe o total, ainda registra e exibe uma lista das ultimas consultas armazenadas. 
 
 
 
