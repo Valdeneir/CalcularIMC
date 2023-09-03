@@ -3,7 +3,7 @@ APP para calculcar IMC com React.
 <h1 align="center"> ONEBITHELT (Calcular IMC) </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela DevEmDobro para ensino de tecnologias WEB.
+Evento exclusivo e gratuito, promovido por Jonada dev, para ensino de tecnologias mobile.
 </p>
 
 <p align="center">
