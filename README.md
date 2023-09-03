@@ -1,6 +1,6 @@
 # CalcularIMC
 APP para calculcar IMC com React.
-<h1 align="center"> Cards Pokémom </h1>
+<h1 align="center"> ONEBITHELT (Calcular IMC) </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela DevEmDobro para ensino de tecnologias WEB.
